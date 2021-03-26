@@ -9,11 +9,12 @@ public class Login {
 	public static void main(String[] args) {
 		System.out.println(new Login().b);
 		System.out.println("Hello WOrld");
-		log.info("Bhaskar");
+		log.info("BhaskarAfterCloing");
 		log.warn("Started");
 		log.fatal("fatal");
 		log.error("err");
 		log.debug("debug");
 		log.info(log.getClass());
+		//After cloing
 	}
 }
