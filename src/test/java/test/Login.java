@@ -9,7 +9,7 @@ public class Login {
 	public static void main(String[] args) {
 		System.out.println(new Login().b);
 		System.out.println("Hello WOrld");
-		log.info("BhaskarAfterCloing");
+		log.info("MadAfterCloing");
 		log.warn("Started");
 		log.fatal("fatal");
 		log.error("err");
