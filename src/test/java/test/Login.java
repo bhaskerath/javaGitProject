@@ -16,5 +16,6 @@ public class Login {
 		log.debug("debug");
 		log.info(log.getClass());
 		//After cloing
+		System.out.print("New line added");
 	}
 }
