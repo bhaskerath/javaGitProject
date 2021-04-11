@@ -17,5 +17,9 @@ public class Login {
 		log.info(log.getClass());
 		//After cloing
 		System.out.print("New line added");
+		//test2 changes
+		System.out.print("method10");
+		System.out.print("method11");
+		System.out.print("method12");
 	}
 }
