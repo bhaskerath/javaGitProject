@@ -8,7 +8,7 @@ class demo{
 		System.out.println("hh");
 		//System.out.println("hh");
 		
-		System.out.println("hh");
+		System.out.println("hh")
 	}
 	
 	
